@@ -4,7 +4,7 @@
 
 ## Über uns
 
-Wir sind Experten für individuelle Cloud Softwarelösungen und haben es uns zur Aufgabe gemacht, die Anforderungen des digitalen Zeitalters maßgeschneidert zu erfüllen. Unsere Vision ist es, Prozesse zu vereinfachen und Ideen in die Tat umzusetzen, immer mit dem Blick auf eine digitale und nachhaltige Zukunft. Mit jahrelanger Erfahrung in der Softwareentwicklung, insbesondere in den Bereichen Individualentwicklungen, Schnittstellen und App-Projekten, sprechen unsere Referenzen für sich. Werfen Sie einen Blick auf einige unserer neuesten Projektumsetzungen.
+Wir sind Experten für individuelle Cloud Softwarelösungen und haben es uns zur Aufgabe gemacht, die Anforderungen des digitalen Zeitalters maßgeschneidert zu erfüllen. Unsere Vision ist es, Prozesse zu vereinfachen und Ideen in die Tat umzusetzen, immer mit dem Blick auf eine digitale und nachhaltige Zukunft. Mit jahrelanger Erfahrung in der Softwareentwicklung, insbesondere in den Bereichen Individualentwicklungen, Schnittstellen und App-Projekten.
 
 ## Unsere Leistungen
 
