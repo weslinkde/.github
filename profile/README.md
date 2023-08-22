@@ -18,11 +18,17 @@ Wir sind Experten für individuelle Cloud Softwarelösungen und haben es uns zur
 
 ## Ausgewählte Projekte
 
-1. **Taxi Mobile App**: Eine umfassende Lösung für Taxis, inklusive Flottenmanagement, Zeiterfassung und Fahrtenplanung.
-  
-2. **Überwachung von Speisenregeneration**: Fortschrittliche Kontrolle der Speisenregeneration in der Gemeinschaftsverpflegung mittels OPCUA.
-  
-3. **Server Portierung**: Umstellung von einer altgedienten Einzelserver-Lösung auf eine skalierbare Kubernetes Cloud-Umgebung.
+1. **Taxi Mobile App**: Integrierte mobile Anwendung zur Optimierung des Taxi-Geschäfts. Bietet effizientes Flottenmanagement, präzise Zeiterfassung und intelligente Fahrtenplanung.
+
+2. **Überwachung von Speisenregeneration**: Hochmoderne Überwachungslösung zur Steuerung und Analyse der Speisenregeneration in Gemeinschaftsverpflegungen, unterstützt durch die fortschrittliche OPCUA-Technologie.
+
+3. **Server Portierung**: Transformation und Migration von Legacy-Einzelserver-Architekturen in eine flexible und skalierbare Kubernetes Cloud-Infrastruktur.
+
+4. **Vertragsmanagement-System**: Innovative Softwarelösung zur detaillierten Analyse von Mobilfunkvertragsdaten, ausgestattet mit EDI-Schnittstellen für eine nahtlose Integration mit führenden deutschen TK-Anbietern.
+
+5. **IOT Monitoring für Dampfkessel**: Cutting-edge IOT-Lösung zur Echtzeitüberwachung von Dampfkesselanlagen, ermöglicht durch eine nahtlose Anbindung der Kessel über die Datacake-Plattform.
+
+
 
 
 ## Kontakt
