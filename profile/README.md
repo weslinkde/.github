@@ -10,9 +10,6 @@ Wir sind Experten für individuelle Cloud Softwarelösungen und haben es uns zur
 
 - 🌐 **Laravel Software Entwicklung**: Wir sind nicht nur Entwickler, sondern auch Innovatoren. Digitalisierung – schnell, innovativ und zukunftsweisend.
   
-- 📱 **IONIC-App Entwicklung & Schnittstellen**: Wir gestalten Prozesse effizienter und setzen Ideen in die Praxis um, immer mit dem Ziel einer nachhaltigen digitalen Zukunft.
-  
-- 🚀🔧 **DevOPs**: Wir migrieren klassiche Hostings in skalierbare Cloud Hostings
   
 - 🛠  **Tools** Laravel, TALL-Stack, Vue.js, Livewire, Alpine, Tailwind, Filament, Pest, Slack, PhpStorm  
 
